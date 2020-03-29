@@ -1,2 +1,1 @@
-# diego.psalles-gmail.com
-omni-stack
+# omni-stack
